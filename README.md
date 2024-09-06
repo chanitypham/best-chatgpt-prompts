@@ -5,9 +5,9 @@ Welcome to the **Best ChatGPT Prompts** repository! Here, you’ll find a growin
 ## 🛠️ Contribute and Collaborate
 We encourage you to **contribute your own prompts, improve our prompts, or add more prompt domains** and help grow this resource! Feel free to pull request with any new or optimized prompts that you believe will benefit the community. We're always excited to see creative and innovative use cases.
 ### ✨ How to Contribute
-1. **Fork** this repository.
-2. **Add your prompt** or improve an existing one.
-3. Submit a **Pull Request** and we’ll review and merge your contribution!
+  1. **Fork** this repository.
+  2. **Add your prompt** or improve an existing one.
+  3. Submit a **Pull Request** and we’ll review and merge your contribution!
 
 ## 🔔 Latest Updates
 This repository is continuously evolving with fresh prompts and updates. Be sure to **star the repository** and **check back regularly** to stay up-to-date on new additions. Major updates will be listed below.
@@ -26,8 +26,8 @@ Happy Prompting!
 
 ---
 
-## ChatGPT Prompts
-### Marketing
+# ChatGPT Prompts
+## Marketing
 <details>
 <summary><span style="font-weight: bold">Blog: Addressing [Ideal Customer Persona] Needs and Demands</span></summary>
 
@@ -435,7 +435,7 @@ You are a crisis communication expert with extensive experience in managing bran
   - Metrics for evaluating the effectiveness of the crisis communication plan
 </details>
 
-### SEO & Content Writing
+## SEO & Content Writing
 <details>
 <summary><span style="font-weight: bold">Content Strategy: Developing a Comprehensive Plan for [Website/Brand]</span></summary>
 
@@ -759,7 +759,7 @@ You are a content innovation expert with extensive experience in exploring new f
   - Metrics for measuring the impact of innovative content
 </details>
 
-### Copywriting Frameworks
+## Copywriting Frameworks
 <details>
 <summary><span style="font-weight: bold">Copywriting Framework: How-To Framework for [Topic]</span></summary>
 
@@ -1130,7 +1130,7 @@ You are a content optimization expert with extensive experience in enhancing exi
 </details>
 
 
-### Education
+## Education
 <details>
 <summary><span style="font-weight: bold">Lesson Plan: Engaging [Grade Level] Students in [Subject]</span></summary>
 
@@ -1312,7 +1312,7 @@ You are experienced in community engagement and building partnerships, understan
   - Suggestions for sustaining partnerships over time
 </details>
 
-### Business
+## Business
 <details>
 <summary><span style="font-weight: bold">Business Plan: Developing a Comprehensive Business Plan for [Business Idea]</span></summary>
 
@@ -1707,7 +1707,7 @@ You are a crisis management expert with extensive experience in helping organiza
   - Metrics for evaluating the effectiveness of the crisis management plan
 </details>
 
-### Healthcare
+## Healthcare
 <details>
 <summary><span style="font-weight: bold">Healthcare Marketing: Developing a Marketing Strategy for [Healthcare Facility/Service]</span></summary>
 
@@ -2091,7 +2091,7 @@ You are a healthcare community partnerships expert with extensive experience in 
 </details>
 
 
-### Cold DM / Cold Email
+## Cold DM / Cold Email
 <details>
 <summary><span style="font-weight: bold">Cold DM Framework: The Introductory Message Framework for [Target Audience]</span></summary>
 
@@ -2345,7 +2345,7 @@ You are a limited-time offer email expert with extensive experience in crafting 
 
 
 
-### Growth Hacking
+## Growth Hacking
 <details>
 <summary><span style="font-weight: bold">AARRR Metrics Framework for [Business] to analyze customer journey and drive growth</span></summary>
 

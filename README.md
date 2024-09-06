@@ -3,7 +3,7 @@
 Welcome to the **Best ChatGPT Prompts** repository! Here, you’ll find a growing collection of high-quality prompts designed to optimize your ChatGPT interactions across a variety of fields, including marketing, education, healthcare, and beyond. These prompts are curated to help you get the most quality results out of AI, spark creativity, and streamline your workflows.
 
 ## 🛠️ Contribute and Collaborate
-We encourage you to **submit your own prompts** and help grow this resource! Feel free to pull request with any new or optimized prompts that you believe will benefit the community. We're always excited to see creative and innovative use cases.
+We encourage you to **contribute your own prompts, improve our prompts, or add more prompt domains** and help grow this resource! Feel free to pull request with any new or optimized prompts that you believe will benefit the community. We're always excited to see creative and innovative use cases.
 ### ✨ How to Contribute
 1. **Fork** this repository.
 2. **Add your prompt** or improve an existing one.
@@ -27,8 +27,7 @@ Happy Prompting!
 ---
 
 ## ChatGPT Prompts
-<br>
-<span style="color:blue; font-size:20px; font-weight: bold">Marketing</span>
+### Marketing
 <details>
 <summary><span style="font-weight: bold">Blog: Addressing [Ideal Customer Persona] Needs and Demands</span></summary>
 
@@ -436,7 +435,8 @@ You are a crisis communication expert with extensive experience in managing bran
   - Metrics for evaluating the effectiveness of the crisis communication plan
 </details>
 <br>
-<span style="color:blue; font-size:20px; font-weight: bold">SEO & Content Writing</span>
+
+### SEO & Content Writing
 <details>
 <summary><span style="font-weight: bold">Content Strategy: Developing a Comprehensive Plan for [Website/Brand]</span></summary>
 
@@ -760,7 +760,8 @@ You are a content innovation expert with extensive experience in exploring new f
   - Metrics for measuring the impact of innovative content
 </details>
 <br>
-<span style="color:blue; font-size:20px; font-weight: bold">Copywriting Frameworks</span>
+
+### Copywriting Frameworks
 <details>
 <summary><span style="font-weight: bold">Copywriting Framework: How-To Framework for [Topic]</span></summary>
 
@@ -1131,7 +1132,8 @@ You are a content optimization expert with extensive experience in enhancing exi
 </details>
 
 <br>
-<span style="color:blue; font-size:20px; font-weight: bold">Education</span>
+
+### Education
 <details>
 <summary><span style="font-weight: bold">Lesson Plan: Engaging [Grade Level] Students in [Subject]</span></summary>
 
@@ -1313,7 +1315,8 @@ You are experienced in community engagement and building partnerships, understan
   - Suggestions for sustaining partnerships over time
 </details>
 <br>
-<span style="color:blue; font-size:20px; font-weight: bold">Business</span>
+
+### Business
 <details>
 <summary><span style="font-weight: bold">Business Plan: Developing a Comprehensive Business Plan for [Business Idea]</span></summary>
 
@@ -1708,7 +1711,8 @@ You are a crisis management expert with extensive experience in helping organiza
   - Metrics for evaluating the effectiveness of the crisis management plan
 </details>
 <br>
-<span style="color:blue; font-size:20px; font-weight: bold">Healthcare</span>
+
+### Healthcare
 <details>
 <summary><span style="font-weight: bold">Healthcare Marketing: Developing a Marketing Strategy for [Healthcare Facility/Service]</span></summary>
 
@@ -2092,8 +2096,8 @@ You are a healthcare community partnerships expert with extensive experience in 
 </details>
 
 <br>
-<span style="color:blue; font-size:20px; font-weight: bold">Cold DM / Cold Email</span>
 
+### Cold DM / Cold Email
 <details>
 <summary><span style="font-weight: bold">Cold DM Framework: The Introductory Message Framework for [Target Audience]</span></summary>
 
@@ -2346,7 +2350,9 @@ You are a limited-time offer email expert with extensive experience in crafting 
 </details>
 
 <br>
-<span style="color:blue; font-size:20px; font-weight: bold">Growth Hacking</span>
+
+
+### Growth Hacking
 <details>
 <summary><span style="font-weight: bold">AARRR Metrics Framework for [Business] to analyze customer journey and drive growth</span></summary>
 

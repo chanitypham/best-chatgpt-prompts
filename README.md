@@ -41,7 +41,8 @@ You are an expert in persuasive marketing specializing in addressing the specifi
 
 
 <details>
-<summary><span style="font-weight: bold">Social Media Campaign: Engaging [Target Audience] with [Product/Service]</span></summary>
+<summary>**Social Media Campaign: Engaging [Target Audience] with [Product/Service]**
+</summary>
 
 You are a social media marketing expert with a proven track record of creating engaging campaigns that resonate with specific target audiences. Your experience includes developing content strategies that leverage various platforms to maximize reach and engagement. You understand the nuances of different social media channels and how to tailor messages to fit each one. I need your assistance in designing a social media campaign that engages my [Target Audience] with [Product/Service]. The campaign should include:
   - A clear objective for the campaign

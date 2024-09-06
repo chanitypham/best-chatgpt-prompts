@@ -26,8 +26,6 @@ Happy Prompting!
 
 ---
 
-# ChatGPT Prompts
-
 ## Business
 <details>
 <summary><span style="font-weight: bold">Business Plan: Developing a Comprehensive Business Plan for [Business Idea]</span></summary>

@@ -20,7 +20,7 @@ Stay tuned for the newest features and prompt optimizations!
 If you’re new to ChatGPT or looking to enhance your prompt-crafting skills, we’ve included a **Guide to Effective Prompting**. This section provides useful tips and examples on how to structure prompts for better results, allowing you to leverage the full power of ChatGPT in your projects. -->
 
 ## 🔧 Build Your Own Prompts or Prompt Chains
-For users looking to **customize their own prompts or build prompt chains**, we recommend using **MindPal**'s [Prompt Builder Tool](https://mindpal.space/tool/chain-of-prompt-builder). It’s a powerful tool that enables you to create highly tailored prompts, whether you need one-off prompts or a sequence of interconnected prompts.
+For users looking to **build their own prompts or build prompt chains**, we recommend using **MindPal**'s [Prompt Builder Tool](https://mindpal.space/tool/chain-of-prompt-builder). It’s a powerful tool that enables you to create highly tailored prompts, whether you need one-off prompts or a sequence of interconnected prompts.
 
 Happy Prompting!
 
@@ -434,7 +434,6 @@ You are a crisis communication expert with extensive experience in managing bran
   - A timeline for communication and response
   - Metrics for evaluating the effectiveness of the crisis communication plan
 </details>
-<br>
 
 ### SEO & Content Writing
 <details>
@@ -759,7 +758,6 @@ You are a content innovation expert with extensive experience in exploring new f
   - A timeline for testing and implementation
   - Metrics for measuring the impact of innovative content
 </details>
-<br>
 
 ### Copywriting Frameworks
 <details>
@@ -1131,7 +1129,6 @@ You are a content optimization expert with extensive experience in enhancing exi
   - Metrics for measuring the effectiveness of the optimization efforts
 </details>
 
-<br>
 
 ### Education
 <details>
@@ -1314,7 +1311,6 @@ You are experienced in community engagement and building partnerships, understan
   - Methods for evaluating the impact of partnerships on students and the community
   - Suggestions for sustaining partnerships over time
 </details>
-<br>
 
 ### Business
 <details>
@@ -1710,7 +1706,6 @@ You are a crisis management expert with extensive experience in helping organiza
   - A timeline for crisis response and recovery
   - Metrics for evaluating the effectiveness of the crisis management plan
 </details>
-<br>
 
 ### Healthcare
 <details>
@@ -2095,7 +2090,6 @@ You are a healthcare community partnerships expert with extensive experience in 
   - Metrics for measuring partnership success
 </details>
 
-<br>
 
 ### Cold DM / Cold Email
 <details>
@@ -2349,7 +2343,6 @@ You are a limited-time offer email expert with extensive experience in crafting 
   - Metrics for measuring the success of the offer
 </details>
 
-<br>
 
 
 ### Growth Hacking

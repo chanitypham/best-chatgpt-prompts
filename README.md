@@ -2,6 +2,15 @@
 
 Welcome to the **Best ChatGPT Prompts** repository! Here, you’ll find a growing collection of high-quality prompts designed to optimize your ChatGPT interactions across a variety of fields, including marketing, education, healthcare, and beyond. These prompts are curated to help you get the most quality results out of AI, spark creativity, and streamline your workflows.
 
+## 📚 Tips for Effective Prompting
+Check out the below articles / videos:
+- [Prompting tips to Humanize your AI-generated content](https://mindpal.space/blog/how-to-make-your-ai-generated-writing-sound-human)
+- [Prompting tips to teach AI write like you](https://mindpal.space/blog/how-to-train-chatgpt-to-sound-like-you)
+- [Master the ChatGPT Prompt Formula](https://youtu.be/jC4v5AS4RIM?si=h_ew2DpVo5QuDSSX)
+
+## 🔧 Build Your Own Prompts or Prompt Chains
+For users looking to **build their own prompts or build prompt chains**, we recommend using **MindPal**'s [Prompt Builder Tool](https://mindpal.space/tool/chain-of-prompt-builder). It’s a powerful tool that enables you to create highly tailored prompts, whether you need one-off prompts or a sequence of interconnected prompts.
+
 ## 🛠️ Contribute and Collaborate
 We encourage you to **contribute your own prompts, improve our prompts, or add more prompt domains** and help grow this resource! Feel free to pull request with any new or optimized prompts that you believe will benefit the community. We're always excited to see creative and innovative use cases.
 ### ✨ How to Contribute
@@ -15,14 +24,9 @@ This repository is continuously evolving with fresh prompts and updates. Be sure
 
 Stay tuned for the newest features and prompt optimizations!
 
-<!-- 
-## 📚 Guide to Crafting Effective Prompts
-If you’re new to ChatGPT or looking to enhance your prompt-crafting skills, we’ve included a **Guide to Effective Prompting**. This section provides useful tips and examples on how to structure prompts for better results, allowing you to leverage the full power of ChatGPT in your projects. -->
-
-## 🔧 Build Your Own Prompts or Prompt Chains
-For users looking to **build their own prompts or build prompt chains**, we recommend using **MindPal**'s [Prompt Builder Tool](https://mindpal.space/tool/chain-of-prompt-builder). It’s a powerful tool that enables you to create highly tailored prompts, whether you need one-off prompts or a sequence of interconnected prompts.
-
-Happy Prompting!
+## 📩 Contact
+For any inquiries, support, or simply just your thoughts, feel free to drop me (Chanity) an email at trang.pq@mindpal.io.
+Happy Prompting! 🥳
 
 ---
 
